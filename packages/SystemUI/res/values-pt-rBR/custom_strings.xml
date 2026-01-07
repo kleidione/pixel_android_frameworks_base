@@ -77,8 +77,18 @@
     <string name="screenrecord_skip_time_label">Pular temporizador</string>
     <string name="screenrecord_skip_time_summary">Remover a espera de 3 segundos</string>
     <string name="screenrecord_hevc_switch_label">Codificação HEVC</string>
-    <string name="screenrecord_hevc_switch_summary">Usar o codificador HEVC mais eficiente</string>
+    <string name="screenrecord_hevc_switch_summary">Usar o codificador HEVC</string>
 
     <string name="face_unlock_recognizing">Reconhecendo face...</string>
+
+    <string name="accessibility_next_alarm">Próximo alarme às %s</string>
+    <string name="accessibility_smartspace_page">Página %1$d de %2$d</string>
+    <string name="active_mode_content_description">%1$s está ativado</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="music_controls_no_title">Sem título</string>
+    <string name="smartspace_content_desc">Resumo</string>
+    <string name="smartspace_flight_qr_code">Código QR</string>
+    <string name="smartspace_icu_date_pattern">EEEMMMd</string>
+    <string name="smartspace_role_desc">Visualizar</string>
 
 </resources>
